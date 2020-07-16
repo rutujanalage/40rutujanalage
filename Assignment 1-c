@@ -1,0 +1,18 @@
+Create on thu 16 July 2020
+
+@author:Rutuja Nalage 
+
+" " "
+
+
+p=40
+q=10
+addition=p-q
+print(addition)
+
+
+subtraction=p-q
+print(subtraction)
+
+multiplication=p*q
+print(multiplication)
