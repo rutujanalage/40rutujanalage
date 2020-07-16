@@ -7,7 +7,7 @@ Create on thu 16 July 2020
 
 p=40
 q=10
-addition=p-q
+addition=p+q
 print(addition)
 
 
