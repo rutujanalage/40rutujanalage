@@ -1,0 +1,21 @@
+Friday 30 October 
+Author:rutuja Nalage 
+
+
+Import matplotlib. pyplot as plt
+Import csv
+x=[]
+y=[]
+with open('example.txt','r')as csvfile:
+ plot=csv.reader(csvfile,delimiter=',')
+    for row in plots:
+       x.append(int(row[0]))
+       y.append(int(row[1]))
+plt.plot(x,y,label='loaded from file!')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.title('interesting graph\n check it out')
+plt.legend()
+plt.shoe()
+
+
